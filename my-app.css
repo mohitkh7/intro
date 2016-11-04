@@ -1,0 +1,54 @@
+/* Custom CSS file */
+.margin-b-10
+{
+	margin-bottom:10px;
+	padding-top:20px;
+}
+.margin-tb-0
+{
+	margin-top:0px;
+	margin-bottom:0px;
+}
+.bgimg
+{
+	background-image:linear-gradient(to bottom,#ffffb3,#ff751a);
+	/*background:#234567;*/
+	min-height:100%;
+	background-position: center;
+	background-size: cover;
+}
+#roll
+{
+	min-height: 45%;
+	max-height: 45%;
+	text-align: center;
+	
+}
+#roll p
+{
+	font-size:24px;
+	margin:0px;
+}
+#note
+{
+	min-height: 30%;
+	max-height: 30%;
+}
+#main
+{
+	min-height: 20%;
+	max-height: 20%;
+}
+
+/*Result Page */
+#result
+{
+	font-size:1.5em;
+}
+#result .list
+{
+	font-size:.8em;
+	font-style: italic;
+	margin-top:10px;
+	padding-left:30px;
+}
