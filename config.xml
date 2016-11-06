@@ -1,6 +1,6 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.appocrafts.attendino" version="1.0.0">
-  <name>Attendino</name>
-  <description>This App redefine the way you take attendence. Introducing Attendino</description>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.appocrafts.intro" version="1.0.4">
+  <name>Intro</name>
+  <description>This App is an Intro App</description>
   <author href="http://www.facebook.com/mohit-khandelwal-72" email="mohitkh7@gmail.com">Appocrafts</author>
   <content src="index.html"/>
   <preference name="DisallowOverscroll" value="true"/>
